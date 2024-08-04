@@ -1,4 +1,10 @@
-# javascript-sandbox
+# BootcampJS2-Modulo-02
+
+## Modulo 3.1
+
+### Ejercicio de laboratorio de Manuel Denis.
+
+#### Funciones con JavaScript - Ejercicio esenciales.
 
 Para la parte de cada módulo en la que te planteamos ejercicios con JavaScript puedes usar este sandbox.
 
